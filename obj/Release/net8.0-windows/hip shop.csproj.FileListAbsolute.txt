@@ -1,0 +1,17 @@
+C:\Users\amirk\source\repos\hip shop\hip shop\bin\Release\net8.0-windows\hip shop.exe
+C:\Users\amirk\source\repos\hip shop\hip shop\bin\Release\net8.0-windows\hip shop.deps.json
+C:\Users\amirk\source\repos\hip shop\hip shop\bin\Release\net8.0-windows\hip shop.runtimeconfig.json
+C:\Users\amirk\source\repos\hip shop\hip shop\bin\Release\net8.0-windows\hip shop.dll
+C:\Users\amirk\source\repos\hip shop\hip shop\bin\Release\net8.0-windows\hip shop.pdb
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip_shop.Form1.resources
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip_shop.Properties.Resources.resources
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.csproj.GenerateResource.cache
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.AssemblyInfoInputs.cache
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.AssemblyInfo.cs
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.csproj.CoreCompileInputs.cache
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.dll
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\refint\hip shop.dll
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.pdb
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\hip shop.genruntimeconfig.cache
+C:\Users\amirk\source\repos\hip shop\hip shop\obj\Release\net8.0-windows\ref\hip shop.dll
